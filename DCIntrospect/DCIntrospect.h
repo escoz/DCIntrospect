@@ -126,7 +126,6 @@
 - (void)logPropertiesForCurrentView;
 - (void)logPropertiesForObject:(id)object;
 - (void)logAccessabilityPropertiesForObject:(id)object;
-- (NSArray *)subclassesOfClass:(Class)parentClass;
 
 /////////////////////////
 // Description Methods //
